@@ -9,7 +9,7 @@
 
 본 프로젝트는 **' HappyFarm '**은  농장게임으로  씨앗을 심고 농작물을 키워서 수확하는 게임이다.
 
-다음과 같은 요구사항을 만족할 수 있도록 구현하는 것을 목표로 진행하였다.
+다음과 같은 요구사항을 만족할 수 있도록 구현하는 것을 목표로 진행하였다.  
 
 ### [ 요구 사항 ]
 
@@ -35,6 +35,8 @@
 
 - JDK 11.0.9
 - IDE : 이클립스
+
+
 
 
 
@@ -100,7 +102,8 @@ Happy Farm 게임은 초보농부인 당신을 위한 농촌체험 가이드를 
 # 4.시연영상
 
 <div>
-   <a href="https://www.youtube.com/watch?v=WVEriE9FcNM&list=PLAKlETEG-HlF_bpiUpKlHUwxTX5jQkbKy" target="_blank"><image src = "https://img.youtube.com/vi/WVEriE9FcNM&list=PLAKlETEG-HlF_bpiUpKlHUwxTX5jQkbKy/mqdefault.jpg"></a>   
+   <a href="https://www.youtube.com/watch?v=WVEriE9FcNM" target="_blank"><image src = "https://img.youtube.com/vi/WVEriE9FcNM/mqdefault.jpg"></a>   
+
 </div>
 
 
