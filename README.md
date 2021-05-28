@@ -68,7 +68,8 @@ Happy Farm 게임은 초보농부인 당신을 위한 농촌체험 가이드를 
 
 
 
-![image-20210528030314572](C:\Users\SAH\AppData\Roaming\Typora\typora-user-images\image-20210528030314572.png)
+![menu](https://user-images.githubusercontent.com/81146596/119937477-cfc21e00-bfc5-11eb-8672-1b0151a21990.png)
+
 
 
 
