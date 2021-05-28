@@ -99,7 +99,7 @@ Happy Farm 게임은 초보농부인 당신을 위한 농촌체험 가이드를 
 
 # 4.시연영상
 
-<a href="https://www.youtube.com/watch?v=비디오id" target="_blank"><image src = "https://img.youtube.com/vi/비디오id/mqdefault.jpg"></a>
+<a href="https://www.youtube.com/watch?v==WVEriE9FcNM&list=PLAKlETEG-HlF_bpiUpKlHUwxTX5jQkbKyt="_blank"><image src = "https://img.youtube.com/vi/비디오id/mqdefault.jpg"></a>
 
 
 # 5. 프로젝트의 특장점 
